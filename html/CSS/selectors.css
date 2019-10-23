@@ -9,14 +9,14 @@ padding: 0;
 }
 span{
     text-transform: uppercase;
-    color: red;
+    color:blueviolet;
 }
 
 /* ID selector */
 #heading{
     font-size: 30px;
-    background:gray;
-    color: blue;
+    background-color: lightslategray;
+    color:blue;
 }
 #footer{
     text-align: center;
