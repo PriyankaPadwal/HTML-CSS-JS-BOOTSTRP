@@ -11,3 +11,23 @@ text-align: center;
     font-size: 30px;
     background: lightsalmon;
 }
+#footer{
+    text-align: center;
+    font-size: 30px;
+    font: bold;
+    background-color: black;
+    color: white;
+}
+
+/* class */
+.divclass{
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    margin:0;
+}
+.uppercase{
+    text-transform: uppercase;
+    font-size: 20px;
+}
