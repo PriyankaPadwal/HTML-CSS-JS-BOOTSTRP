@@ -1,0 +1,21 @@
+/* RGB colors  */
+#first{
+color:rgb(255, 191, 0);
+background-color:rgb(255, 230, 230);
+}
+
+/* hex values */
+#second{
+    color:	#40ff00;
+    background-color:#ccffff;  
+}
+
+/* hsl values */
+.third{
+    color:	hsl(0, 100%, 50%);
+    background-color:hsl(105, 100%, 90%);  
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
