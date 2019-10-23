@@ -1,0 +1,21 @@
+/* inheritance */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5rem;
+    line-break: initial;
+}
+div{
+    color: blue;
+}
+h1{
+    color:red;
+}
+/* class */
+.divclass{
+    color: lawngreen;
+}
+/* universal selector */
+*{ 
+    color: fuchsia;
+}
+
