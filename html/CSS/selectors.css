@@ -1,0 +1,13 @@
+/* Eleent selectors */
+/* type selector */
+h1{
+color: limegreen;
+font-size: 2rem;
+text-align: center;
+}
+
+/* ID selector */
+#heading{
+    font-size: 30px;
+    background: lightsalmon;
+}
