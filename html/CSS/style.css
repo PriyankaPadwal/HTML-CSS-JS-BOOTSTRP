@@ -23,8 +23,12 @@
     height: 30vh;
     width: 100vw;
     background: red;
-
+    font-size: 2rem;
+    padding:10%;
+    margin:0;  
+    border:3px solid;
 }
+
 .banner{
     width: 50vw;
     height: 20vh;
