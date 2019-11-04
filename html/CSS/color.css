@@ -17,5 +17,5 @@ background-color:rgb(255, 230, 230);
 }
 
 body{
-    background-color: lightgoldenrodyellow;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
